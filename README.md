@@ -1,2 +1,2 @@
 # Student Management-
-simple student management app made with C#
+simple student management using windows form app made with C#
