@@ -18,7 +18,7 @@ namespace WinFormsAdmissionV1
         private int id;
         private String fn;
         private String ln;
-        //
+        
         private EnumStatus status;
          
         public void  SetId(int value)
