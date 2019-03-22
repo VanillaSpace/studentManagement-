@@ -1,0 +1,59 @@
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe.config
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.pdb
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csprojResolveAssemblyReference.cache
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormsAdmissionV1.Form1.resources
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.Properties.Resources.resources
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.GenerateResource.Cache
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.exe
+C:\CT2\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.pdb
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csprojAssemblyReference.cache
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormsAdmissionV1.Form1.resources
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.Properties.Resources.resources
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.GenerateResource.cache
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.CoreCompileInputs.cache
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.exe
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.pdb
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe.config
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe
+C:\Users\english\Documents\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.pdb
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe.config
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.pdb
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csprojResolveAssemblyReference.cache
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormsAdmissionV1.Form1.resources
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.Properties.Resources.resources
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.GenerateResource.cache
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.CoreCompileInputs.cache
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.exe
+C:\Users\sylho\Desktop\Week 6-Demo02_WinFormAdmission\WinFormsAdmission\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.pdb
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe.config
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.pdb
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csprojResolveAssemblyReference.cache
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormsAdmissionV1.Form1.resources
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.Properties.Resources.resources
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.GenerateResource.cache
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.exe
+C:\Users\English\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.pdb
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe.config
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.pdb
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csprojAssemblyReference.cache
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormsAdmissionV1.Form1.resources
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.Properties.Resources.resources
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.GenerateResource.cache
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.CoreCompileInputs.cache
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.exe
+C:\Users\francais\Desktop\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.pdb
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csprojAssemblyReference.cache
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormsAdmissionV1.Form1.resources
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.Properties.Resources.resources
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.GenerateResource.cache
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\obj\Debug\WinFormAdmissionV1.csproj.CoreCompileInputs.cache
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.exe
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\obj\Debug\WindFormAdmissionV1.pdb
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe.config
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.exe
+D:\LaSalle Classes\C#\Week 08 - Demo 02- LaSalle Admission (With enum data type)\Admission -v1\WindFormAdmissionV1\bin\Debug\WindFormAdmissionV1.pdb
