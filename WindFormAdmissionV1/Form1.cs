@@ -71,7 +71,7 @@ namespace WinFormsAdmissionV1
             textBoxId.Focus();
             this.listBox1.Items.Clear();
            
-            this.buttonAdd.Enabled = true; //enable the button Add (to add a new student to the list) 
+            this.buttonAdd.Enabled = false; //enable the button Add (to add a new student to the list) 
         }
 
         private void buttonExit_Click(object sender, EventArgs e)
